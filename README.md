@@ -33,3 +33,4 @@ Imatges
 
 Botó per navegar a la imatge
 [Anar a la imatge] (url)
+
